@@ -17,7 +17,7 @@ Hey! I'm Jeff Vu, a second-year Computer Science student at WLU with a passion f
 
 ![IDA PRO](https://img.shields.io/badge/IDA%20PRO-ff0000?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffvu-1&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffVu-1&hide_progress=true)
 
 ## Currently Learning
 
