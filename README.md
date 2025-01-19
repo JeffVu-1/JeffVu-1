@@ -3,7 +3,6 @@ Hey! I'm Jeff Vu, a Computer Science Student at WLU with a passion for Software 
 
 ## Skills
 
-
 <div>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
@@ -17,9 +16,10 @@ Hey! I'm Jeff Vu, a Computer Science Student at WLU with a passion for Software 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript Badge">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQl Badge">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/IDA%20PRO-ff0000?style=for-the-badge" alt="IDA PRO">
 </div>
 
-![IDA PRO](https://img.shields.io/badge/IDA%20PRO-ff0000?style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffVu-1&layout=compact)
 
