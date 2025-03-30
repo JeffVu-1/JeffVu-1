@@ -1,5 +1,5 @@
 # About Me
-Hey! I'm Jeff Vu, a Computer Science Student at WLU with a passion for Software Development, Web Development, and Reverse Engineering.
+Hey! I'm Jeff Vu, a Computer Science Student with a passion for Web Development and Reverse Engineering.
 
 ## Skills
 
@@ -20,13 +20,11 @@ Hey! I'm Jeff Vu, a Computer Science Student at WLU with a passion for Software 
 <img src="https://img.shields.io/badge/IDA%20PRO-ff0000?style=for-the-badge" alt="IDA PRO">
 </div>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffVu-1&layout=compact)
 
 ## Currently Learning
 - **Reverse Engineering**
-- **React, Vue.js, Web3, DApps**
-- **LLM**
 
-## Get in Touch
-Feel free to reach out if you want to chat about Software Development, Reverse Engineering, or potential collaborations!
+## This is all I do
+"Code. Debug. Repeat."
+
