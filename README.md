@@ -19,12 +19,3 @@ Hey! I'm Jeff Vu, a Computer Science Student with a passion for Web Development 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/IDA%20PRO-ff0000?style=for-the-badge" alt="IDA PRO">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffVu-1&layout=compact)
-
-## Currently Learning
-- **Reverse Engineering**
-
-## This is all I do
-"Code. Debug. Repeat."
-
